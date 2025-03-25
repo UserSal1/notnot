@@ -1,4 +1,4 @@
-# Develop your own Scratch extension
+t# Develop your own Scratch extension
 
 - **Create your account**
   - [Create an account on GitHub](#create-an-account-on-github)
